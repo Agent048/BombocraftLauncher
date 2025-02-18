@@ -7,9 +7,7 @@ pip install pyinstaller
 ```shell
 pip install pyupdater
 ```
-```shell
-pip install pyqt
-```
+
 ```shell
 pip install minecraft-launcher-lib
 ```
